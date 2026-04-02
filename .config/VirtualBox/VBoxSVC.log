@@ -1,0 +1,41 @@
+00:00:00.000687 main     VirtualBox XPCOM Server 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.000689 main     Log opened 2025-11-27T21:02:21.172911000Z
+00:00:00.000690 main     Build Type: release
+00:00:00.000692 main     OS Product: Linux
+00:00:00.000693 main     OS Release: 6.12.59-1-lts
+00:00:00.000694 main     OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 24 Nov 2025 10:38:40 +0000
+00:00:00.000723 main     DMI Product Name: 83JC
+00:00:00.000736 main     DMI Product Version: LOQ 15ARP9
+00:00:00.000746 main     Firmware type: UEFI
+00:00:00.000974 main     Secure Boot: Disabled
+00:00:00.001030 main     Host RAM: 15673MB (15.3GB) total, 14117MB (13.7GB) available
+00:00:00.001033 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001033 main     Process ID: 3933
+00:00:00.001033 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.011628 main     IPC socket path: /tmp/.vbox-matei-ipc/ipcd
+00:00:00.024618 DCon01   VirtualBox: object creation starts
+00:00:00.025328 DCon01   Home directory: '/home/matei/.config/VirtualBox'
+00:00:00.025603 DCon01   Loading settings file "/home/matei/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.043470 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.045814 DCon01   HostDnsMonitor: initializing
+00:00:00.046368 DCon01   NAT: resolv.conf: nameserver 10.69.39.34
+00:00:00.046392 DCon01   HostDnsMonitor: updating information
+00:00:00.046412 DCon01   HostDnsMonitor: old information
+00:00:00.046416 DCon01     no server entries
+00:00:00.046421 DCon01     no domain set
+00:00:00.046424 DCon01     no search string entries
+00:00:00.046428 DCon01   HostDnsMonitor: new information
+00:00:00.046432 DCon01     server 1: 10.69.39.34
+00:00:00.046437 DCon01     no domain set
+00:00:00.046440 DCon01     no search string entries
+00:00:00.049889 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.050076 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.052600 DCon01   VirtualBox: object created
+00:00:01.378917 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:01.848322 DCon03   Saving settings file "/home/matei/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.851439 DCon03   Finished saving settings file "/home/matei/.config/VirtualBox/VirtualBox.xml"
+00:18:54.311983 main     VirtualBox: object deletion starts
+00:18:54.312631 main     HostDnsMonitor: shutting down ...
+00:18:54.312979 main     HostDnsMonitor: shut down
+00:18:54.324269 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:18:54.324395 main     VirtualBox: object deleted

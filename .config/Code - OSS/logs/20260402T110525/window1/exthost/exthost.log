@@ -1,0 +1,29 @@
+2026-04-02 11:05:26.720 [info] Extension host with pid 12933 started
+2026-04-02 11:05:26.720 [info] Skipping acquiring lock for /home/matei/.config/Code - OSS/User/workspaceStorage/90502a92bb85481028b14db8064bb470.
+2026-04-02 11:05:26.758 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-02 11:05:26.780 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-02 11:05:26.829 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-02 11:05:26.849 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-02 11:05:26.882 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-02 11:05:26.939 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: true, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp,*.cu', root cause: franneck94.c-cpp-runner
+2026-04-02 11:05:26.992 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: true, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp,*.cu'
+2026-04-02 11:05:27.038 [info] Eager extensions activated
+2026-04-02 11:05:27.055 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 11:05:27.057 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 11:05:27.069 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 11:06:57.429 [info] ExtensionService#_doActivateExtension artinmajdi.project-template-manager, startup: false, activationEvent: 'onCommand:project-template-manager.createFullProject'
+2026-04-02 11:07:40.346 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-02 11:07:40.354 [info] Extension host with pid 12933 exiting with code 0
+2026-04-02 11:07:41.622 [info] Extension host with pid 15010 started
+2026-04-02 11:07:41.622 [info] Skipping acquiring lock for /home/matei/.config/Code - OSS/User/workspaceStorage/cf07837713175739ff67d9574db7aee8.
+2026-04-02 11:07:41.634 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-02 11:07:41.653 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-02 11:07:41.687 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-04-02 11:07:41.696 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-02 11:07:41.745 [info] Eager extensions activated
+2026-04-02 11:07:41.755 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 11:07:41.756 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 11:07:43.624 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-04-02 11:07:43.710 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished', root cause: franneck94.vscode-c-cpp-config
+2026-04-02 11:07:43.805 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 11:07:47.513 [info] ExtensionService#_doActivateExtension artinmajdi.project-template-manager, startup: false, activationEvent: 'onCommand:project-template-manager.createFullProject'

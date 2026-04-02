@@ -1,0 +1,215 @@
+;;(defwindow powermenu
+;;  :monitor 0 ;; wayland users may need this
+;;  :stacking "fg"
+;;  :windowtype "normal"
+;;  :wm-ignore true
+;;  :geometry (geometry :width "50px" :height "50px" :x "1140px" :y "615px")
+;;  (_battery :status {EWW_BATTERY.BAT0.status}
+;;                :battery {EWW_BATTERY.BAT0.capacity}
+;;                :charge "" 
+;;                :b "1%"
+;;                :c "2%"
+;;                :d "3%"
+;;                :e "4%"
+;;                :f "5%"
+;;                :g "6%"
+;;                :h "7%"
+;;                :i "8%"
+;;                :j "9%"
+;;                :ba "10%"
+;;                :bb "11%"
+;;                :bc "12%"
+;;                :bd "13%"
+;;                :be "14%"
+;;                :bf "15%"
+;;                :bg "16%"
+;;                :bh "17%"
+;;                :bi "18%"
+;;                :bj "19%"
+;;                :ca "20%"
+;;                :cb "21%"
+;;                :cc "22%"
+;;                :cd "23%"
+;;                :ce "24%"
+;;                :cf "25%"
+;;                :cg "26%"
+;;                :ch "27%"
+;;                :ci "28%"
+;;                :cj "29%"
+;;                :da "30%"
+;;                :db "31%"
+;;                :dc "32%"
+;;                :dd "33%"
+;;                :de "34%"
+;;                :df "35%"
+;;                :dg "36%"
+;;                :dh "37%"
+;;                :di "38%"
+;;                :dj "39%"
+;;                :ea "40%"
+;;                :eb "41%"
+;;                :ec "42%"
+;;                :ed "43%"
+;;                :ee "44%"
+;;                :ef "45%"
+;;                :eg "46%"
+;;                :eh "47%"
+;;                :ei "48%"
+;;                :ej "49%"
+;;                :fa "50%"
+;;                :fb "51%"
+;;                :fc "52%"
+;;                :fd "53%"
+;;                :fe "54%"
+;;                :ff "55%"
+;;                :fg "56%"
+;;                :fh "57%"
+;;                :fi "58%"
+;;                :fj "59%"
+;;                :ga "60%"
+;;                :gb "61%"
+;;                :gc "62%"
+;;                :gd "63%"
+;;                :ge "64%"
+;;                :gf "65%"
+;;                :gg "66%"
+;;                :gh "67%"
+;;                :gi "68%"
+;;                :gj "69%"
+;;                :ha "70%"
+;;                :hb "71%"
+;;                :hc "72%"
+;;                :hd "73%"
+;;                :he "74%"
+;;                :hf "75%"
+;;                :hg "76%"
+;;                :hh "77%"
+;;                :hi "78%"
+;;                :hj "79%"
+;;                :ia "80%"
+;;                :ib "81%"
+;;                :ic "82%"
+;;                :id "83%"
+;;                :ie "84%"
+;;                :if "85%"
+;;                :ig "86%"
+;;                :ih "87%"
+;;                :ii "88%"
+;;                :ij "89%"
+;;                :ja "90%"
+;;                :jb "91%"
+;;                :jc "92%"
+;;                :jd "93%"
+  ;;              :je "94%"
+  ;;              :jf "95%"
+  ;;              :jg "96%"
+  ;;              :jh "97%"
+  ;;              :ji "98%"
+;;;;                :jj "99%"
+;;;;                :baa "100%")
+;;;;)
+;;;;
+;;;;
+;;(defwidget _battery [battery status b c d e f g h i j ba bb bc bd be bf bg bh bi bj ca cb cc cd ce cf cg ch ci cj da db dc dd de df dg dh di dj ea eb ec ed ee ef eg eh ei ej fa fb fc fd fe ff fg fh fi fj ga gb gc gd ge gf gg gh gi gj ha hb hc hd he hf hg hh hi hj ia ib ic id ie if ig ih ii ij ja jb jc jd je jf jg jh ji jj baa charge ]
+;;  (box :class "bat-box" :space-evenly false :spacing 8
+;;    (label :text {status == 'Charging' ? charge :
+;;      battery == 1 ? b:
+;;      battery == 2 ? c:
+;;      battery == 3 ? d:
+;;      battery == 4 ? e:
+;;      battery == 5 ? f:
+;;      battery == 6 ? g:
+;;      battery == 7 ? h:
+;;      battery == 8 ? i:
+;;      battery == 9 ? j:
+;;      battery == 10 ? ba:
+;;      battery == 11 ? bb:
+;;      battery == 12 ? bc:
+;;      battery == 13 ? bd:
+;;      battery == 14 ? be:
+;;      battery == 15 ? bf:
+;;      battery == 16 ? bg:
+;;      battery == 17 ? bh:
+;;      battery == 18 ? bi:
+;;      battery == 19 ? bj:
+;;      battery == 20 ? ca:
+;;      battery == 21 ? cb:
+;;      battery == 22 ? cc:
+;;      battery == 23 ? cd:
+;;      battery == 24 ? ce:
+;;      battery == 25 ? cf:
+;;      battery == 26 ? cg:
+;;      battery == 27 ? ch:
+;;      battery == 28 ? ci:
+;;      battery == 29 ? cj:
+;;      battery == 30 ? da:
+;;      battery == 31 ? db:
+;;      battery == 32 ? dc:
+;;      battery == 33 ? dd:
+;;      battery == 34 ? de:
+;;      battery == 35 ? df:
+;;      battery == 36 ? dg:
+;;      battery == 37 ? dh:
+;;      battery == 38 ? di:
+;;      battery == 39 ? dj:
+;;      battery == 40 ? ea:
+;;      battery == 41 ? eb:
+;;      battery == 42 ? ec:
+;;      battery == 43 ? ed:
+;;      battery == 44 ? ee:
+;;      battery == 45 ? ef:
+;;      battery == 46 ? eg:
+;;      battery == 47 ? eh:
+;;      battery == 48 ? ei:
+;;      battery == 49 ? ej:
+;;      battery == 50 ? fa:
+;;      battery == 51 ? fb:
+;;      battery == 52 ? fc:
+;;      battery == 53 ? fd:
+;;      battery == 54 ? fe:
+;;      battery == 55 ? ff:
+;;      battery == 56 ? fg:
+;;      battery == 57 ? fh:
+;;      battery == 58 ? fi:
+;;      battery == 59 ? fj:
+;;      battery == 60 ? ga:
+;;      battery == 61 ? gb:
+;;      battery == 62 ? gc:
+;;      battery == 63 ? gd:
+;;      battery == 64 ? ge:
+;;      battery == 65 ? gf:
+;;      battery == 66 ? gg:
+;;      battery == 67 ? gh:
+;;      battery == 68 ? gi:
+;;      battery == 69 ? gj:
+;;      battery == 70 ? ha:
+;;      battery == 71 ? hb:
+;;      battery == 72 ? hc:
+;;      battery == 73 ? hd:
+;;      battery == 74 ? he:
+;;      battery == 75 ? hf:
+;;      battery == 76 ? hg:
+;;      battery == 77 ? hh:
+;;      battery == 78 ? hi:
+;;      battery == 79 ? hj:
+;;      battery == 80 ? ia:
+;;      battery == 81 ? ib:
+;;      battery == 82 ? ic:
+;;      battery == 83 ? id:
+;;      battery == 84 ? ie:
+;;      battery == 85 ? if:
+;;      battery == 86 ? ig:
+;;      battery == 87 ? ih:
+;;      battery == 88 ? ii:
+;;      battery == 89 ? ij:
+;;      battery == 90 ? ja:
+;;      battery == 91 ? jb:
+;;      battery == 92 ? jc:
+;;      battery == 93 ? jd:
+;;      battery == 94 ? je:
+;;      battery == 95 ? jf:
+;;      battery == 96 ? jg:
+;;      battery == 97 ? jh:
+;;      battery == 98 ? ji:
+;;      battery == 99 ? jj: baa
+;;      })))

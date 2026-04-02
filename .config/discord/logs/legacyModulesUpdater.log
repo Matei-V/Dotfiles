@@ -1,0 +1,1356 @@
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Modules initializing
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Distribution: remote
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Host updates: enabled
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module updates: enabled
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.113/modules
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.113/modules/installed.json
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.113/modules/pending
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Bootstrapping...
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Finished module installations. [success: 0] [failure: 6]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Checking for host updates.
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Host is up to date.
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module update available: discord_erlpack@1 [installed: 0]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module update available: discord_utils@1 [installed: 0]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module update available: discord_voice@1 [installed: 0]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Module update available: discord_zstd@1 [installed: 0]
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+11/3/2025, 10:26:12 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 2%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 3%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 4%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 5%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 6%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 7%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 8%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 9%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 10%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 11%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 12%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 13%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 14%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 16%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 18%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 21%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 24%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 25%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 28%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 31%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 32%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 35%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 37%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 39%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 42%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 45%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 46%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 48%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 51%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 52%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 55%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 57%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 59%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 60%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 63%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 64%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 66%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 67%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 70%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 71%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 74%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 76%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 78%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 79%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 82%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 83%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 85%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 88%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 90%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 92%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 95%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 97%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 100%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 2%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 9%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 14%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 19%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 22%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 25%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 28%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 29%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 33%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 35%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 38%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 43%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 46%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 49%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 52%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 55%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 58%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 60%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 63%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 67%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 70%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 73%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 79%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 82%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 84%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 90%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 92%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 95%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 100%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 1%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 2%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 3%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 4%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 5%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 6%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 7%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 8%
+11/3/2025, 10:26:13 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 9%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 10%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 11%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 12%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 13%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 14%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 15%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 16%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 17%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 18%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 19%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 20%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 21%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 22%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 23%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 24%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 25%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 26%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 27%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 28%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 29%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 33%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 39%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 41%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 49%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 50%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 51%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 52%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 53%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 55%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 56%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 57%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 59%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 60%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 61%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 62%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 64%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 65%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 66%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 67%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 68%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 70%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 71%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 72%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 74%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 77%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 80%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 82%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 89%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 94%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 95%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 98%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 99%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 100%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 1%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 3%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 5%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 7%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 8%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 9%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 10%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 11%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 12%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 13%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 19%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 22%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 23%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 24%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 25%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 28%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 29%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 32%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 37%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 38%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 44%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 45%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 46%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 48%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 49%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 51%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 52%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 55%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 60%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 61%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 69%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 81%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 88%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 100%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 1%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 2%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 3%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 4%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 5%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 6%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 7%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 8%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 9%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 10%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 11%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 12%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 13%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 14%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 15%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 16%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 17%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 18%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 19%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 21%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 22%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 23%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 26%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 27%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 28%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 29%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 30%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 31%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 32%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 33%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 34%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 35%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 36%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 37%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 38%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 39%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 40%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 41%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 42%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 43%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 44%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 45%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 46%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 47%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 48%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 49%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 50%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 51%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 52%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 53%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 54%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 55%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 56%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 58%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 59%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 60%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 61%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 63%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 64%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 65%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 66%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 69%
+11/3/2025, 10:26:14 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 70%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 71%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 73%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 74%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 75%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 76%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 77%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 78%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 79%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 81%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 82%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 84%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 85%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 86%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 87%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 88%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 89%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 90%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 91%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 92%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 93%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 94%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 95%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 96%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 97%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 98%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 99%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 100%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 10%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 68%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 95%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 99%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 100%
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Finished module downloads. [success: 6] [failure: 0]
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Installing updates...
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Installing discord_desktop_core@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Installing discord_erlpack@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip
+11/3/2025, 10:26:15 PM GMT+2 [Modules] Installing discord_spellcheck@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Installing discord_utils@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_utils-1.zip
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Installing discord_voice@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_voice-1.zip
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Installing discord_zstd@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Finished module installations. [success: 6] [failure: 0]
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Checking for host updates.
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Host is up to date.
+11/3/2025, 10:26:16 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+11/3/2025, 10:26:16 PM GMT+2 [Modules] No module updates available.
+11/3/2025, 10:26:17 PM GMT+2 [Modules] Starting to install discord_krisp...
+11/3/2025, 10:26:17 PM GMT+2 [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+11/3/2025, 10:26:17 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip
+11/3/2025, 10:26:17 PM GMT+2 [Modules] Starting to install discord_game_utils...
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 1%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 2%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 3%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 4%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 5%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 6%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 7%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 8%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 9%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 10%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 11%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 12%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 13%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 14%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 15%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 16%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 17%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 18%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 19%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 20%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 21%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 22%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 23%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 24%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 25%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 26%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 27%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 28%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 29%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 30%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 31%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 32%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 33%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 34%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 35%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 36%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 37%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 38%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 39%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 40%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 41%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 42%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 43%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 44%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 45%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 46%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Starting to install discord_rpc...
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 47%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 48%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 49%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 50%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 51%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 52%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 53%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 54%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 55%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 56%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 57%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 58%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 59%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 60%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 61%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 62%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 63%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 64%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 65%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 66%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 67%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 68%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 69%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 70%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 71%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 72%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 73%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 74%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 75%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 76%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 77%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 78%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 79%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 80%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 81%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 82%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 83%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 84%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 85%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 86%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 87%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 88%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 89%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 90%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 91%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 92%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 93%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 94%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 95%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 96%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 97%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 98%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 99%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip: 100%
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip
+11/3/2025, 10:26:18 PM GMT+2 [Modules] Installing discord_krisp@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_krisp-1.zip
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 1%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 4%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 5%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 6%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 7%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 9%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 10%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 11%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 13%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 15%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 18%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 21%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 22%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 24%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 29%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 34%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 37%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 39%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 44%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 46%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 50%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 51%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 53%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 59%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 61%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 63%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 65%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 70%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 72%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 77%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 78%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 80%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 82%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 86%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 94%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip: 100%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_rpc-1.zip
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Installing discord_game_utils@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_game_utils-1.zip
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Finished module installations. [success: 2] [failure: 0]
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.113/modules/pending/discord_rpc-1.zip: 100%
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Finished module downloads. [success: 3] [failure: 0]
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Installing discord_rpc@1 from /home/matei/.config/discord/0.0.113/modules/pending/discord_rpc-1.zip
+11/3/2025, 10:26:19 PM GMT+2 [Modules] Finished module installations. [success: 1] [failure: 0]
+11/3/2025, 10:30:03 PM GMT+2 [Modules] Checking for host updates.
+11/3/2025, 10:30:03 PM GMT+2 [Modules] Host is up to date.
+11/3/2025, 10:30:03 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+11/3/2025, 10:30:03 PM GMT+2 [Modules] No module updates available.
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Modules initializing
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Distribution: remote
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Host updates: enabled
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Module updates: enabled
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.113/modules
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.113/modules/installed.json
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.113/modules/pending
+11/4/2025, 12:10:47 PM GMT+2 [Modules] No updates to install
+11/4/2025, 12:10:47 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Modules initializing
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Distribution: remote
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Host updates: enabled
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Module updates: enabled
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.116/modules
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.116/modules/installed.json
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.116/modules/pending
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Bootstrapping...
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Finished module installations. [success: 0] [failure: 6]
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:45:00 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+12/11/2025, 11:45:10 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:45:10 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+12/11/2025, 11:45:30 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:45:30 PM GMT+2 [Modules] Host update is available. Manual update required!
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Modules initializing
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Distribution: remote
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Host updates: enabled
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Module updates: enabled
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.116/modules
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.116/modules/installed.json
+12/11/2025, 11:47:08 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.116/modules/pending
+12/11/2025, 11:47:09 PM GMT+2 [Modules] No updates to install
+12/11/2025, 11:47:09 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:48:09 PM GMT+2 [Modules] Host update failed: Error: ETIMEDOUT
+12/11/2025, 11:48:29 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:48:58 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+12/11/2025, 11:49:09 PM GMT+2 [Modules] Checking for host updates.
+12/11/2025, 11:49:09 PM GMT+2 [Modules] Host update is available. Manual update required!
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Modules initializing
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Distribution: remote
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Host updates: enabled
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Module updates: enabled
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.116/modules
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.116/modules/installed.json
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.116/modules/pending
+1/19/2026, 8:51:29 PM GMT+2 [Modules] No updates to install
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Checking for host updates.
+1/19/2026, 8:51:29 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+1/19/2026, 8:51:39 PM GMT+2 [Modules] Checking for host updates.
+1/19/2026, 8:51:39 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Modules initializing
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Distribution: remote
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Host updates: enabled
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Module updates: enabled
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.116/modules
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.116/modules/installed.json
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.116/modules/pending
+1/19/2026, 8:52:55 PM GMT+2 [Modules] No updates to install
+1/19/2026, 8:52:55 PM GMT+2 [Modules] Checking for host updates.
+1/19/2026, 8:52:56 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+1/19/2026, 8:53:06 PM GMT+2 [Modules] Checking for host updates.
+1/19/2026, 8:53:06 PM GMT+2 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Modules initializing
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Distribution: remote
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Host updates: enabled
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Module updates: enabled
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.116/modules
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.116/modules/installed.json
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.116/modules/pending
+1/19/2026, 8:54:31 PM GMT+2 [Modules] No updates to install
+1/19/2026, 8:54:31 PM GMT+2 [Modules] Checking for host updates.
+1/19/2026, 8:54:32 PM GMT+2 [Modules] Host update is available. Manual update required!
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Modules initializing
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Distribution: remote
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Host updates: enabled
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Module updates: enabled
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.121/modules
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.121/modules/installed.json
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.121/modules/pending
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Bootstrapping...
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+1/23/2026, 7:04:29 PM GMT+2 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Finished module installations. [success: 0] [failure: 6]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Checking for host updates.
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Host is up to date.
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Module update available: discord_erlpack@1 [installed: 0]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Module update available: discord_utils@1 [installed: 0]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Module update available: discord_voice@1 [installed: 0]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Module update available: discord_zstd@1 [installed: 0]
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 1%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 2%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 3%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 4%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 5%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 6%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 7%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 8%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 9%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 10%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 11%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 12%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 13%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 14%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 15%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 16%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 17%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 18%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 19%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 20%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 21%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 22%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 23%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 24%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 25%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 26%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 27%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 28%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 29%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 30%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 31%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 32%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 33%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 34%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 35%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 36%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 37%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 38%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 39%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 40%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 41%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 42%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 45%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 47%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 48%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 49%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 52%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 55%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 56%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 57%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 58%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 60%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 61%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 64%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 65%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 68%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 69%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 78%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 79%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 80%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 81%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 82%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 83%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 84%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 87%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 89%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 90%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 93%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 94%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 95%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 97%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_desktop_core@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip: 100%
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+1/23/2026, 7:04:30 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 1%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 2%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 3%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 4%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 5%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 6%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 7%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 8%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 9%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 10%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 11%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 13%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 14%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 17%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 18%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 20%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 21%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 22%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 23%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 25%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 26%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 29%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 32%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 37%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 38%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 39%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 40%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 41%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 42%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 43%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 44%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 45%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 46%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 47%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 48%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 50%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 51%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 54%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 55%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 56%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 59%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 60%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 62%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 64%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 67%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 73%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 74%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 75%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 76%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 77%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 78%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 79%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 80%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 81%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 82%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 83%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 84%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 85%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 86%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 87%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 88%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 89%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 90%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 91%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 92%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 93%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 94%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 95%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 96%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 97%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 98%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 99%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_erlpack@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip: 100%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 1%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 2%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 3%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 4%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 5%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 6%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 7%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 8%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 9%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 10%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 11%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 12%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 13%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 16%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 18%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 19%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 20%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 21%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 22%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 23%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 24%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 25%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 26%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 27%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 28%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 29%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 30%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 31%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 32%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 33%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 34%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 35%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 36%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 37%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 39%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 40%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 41%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 42%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 43%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 44%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 45%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 46%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 47%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 48%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 49%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 50%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 51%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 52%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 53%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 54%
+1/23/2026, 7:04:31 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 55%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 56%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 57%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 58%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 59%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 60%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 61%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 62%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 63%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 64%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 67%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 68%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 69%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 70%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 71%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 72%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 73%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 74%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 75%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 76%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 77%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 78%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 79%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 80%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 81%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 82%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 83%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 84%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 85%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 86%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 87%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 88%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 89%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 90%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 91%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 92%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 94%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 95%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 96%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 97%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 98%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 99%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_spellcheck@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip: 100%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 1%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 2%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 3%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 4%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 5%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 6%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 7%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 8%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 9%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 10%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 11%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 12%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 13%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 14%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 15%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 16%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 17%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 18%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 19%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 20%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 21%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 22%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 23%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 24%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 25%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 26%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 27%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 28%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 29%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 30%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 31%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 32%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 33%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 34%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 35%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 36%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 37%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 38%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 39%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 40%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 41%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 42%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 43%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 44%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 45%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 46%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 47%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 48%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 49%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 50%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 51%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 52%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 53%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 54%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 55%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 56%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 57%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 58%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 59%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 60%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 61%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 62%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 63%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 64%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 65%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 66%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 67%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 68%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 69%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 70%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 71%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 72%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 73%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 74%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 75%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 76%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 77%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 78%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 79%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 80%
+1/23/2026, 7:04:32 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 81%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 82%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 84%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 87%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 90%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 91%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 92%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 93%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 94%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 95%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 96%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 97%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 98%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 99%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip: 100%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 1%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 2%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 3%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 4%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 5%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 6%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 7%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 8%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 9%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 10%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 11%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 12%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 13%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 14%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 15%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 16%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 17%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 18%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 19%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 20%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 21%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 22%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 23%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 24%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 25%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 26%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 27%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 28%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 29%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 30%
+1/23/2026, 7:04:33 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 31%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 32%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 33%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 34%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 35%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 36%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 37%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 38%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 39%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 40%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 41%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 42%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 43%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 44%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 45%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 46%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 47%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 48%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 49%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 50%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 51%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 52%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 53%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 54%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 55%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 56%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 57%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 58%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 59%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 60%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 61%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 62%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 63%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 64%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 65%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 66%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 67%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 68%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 69%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 70%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 71%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 72%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 73%
+1/23/2026, 7:04:34 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 74%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 75%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 76%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 77%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 78%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 79%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 80%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 81%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 82%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 83%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 84%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 85%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 86%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 87%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 88%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 89%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 90%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 91%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 92%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 93%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 94%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 95%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 96%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 97%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 98%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 99%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_voice@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip: 100%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 10%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 12%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 14%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 15%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 17%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 18%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 19%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 20%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 21%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 23%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 24%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 26%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 27%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 29%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 30%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 31%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 33%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 34%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 36%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 37%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 39%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 40%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 41%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 43%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 44%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 46%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 47%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 49%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 50%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 51%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 53%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 54%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 55%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 57%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 58%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 60%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 61%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 62%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 64%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 66%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 67%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 68%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 70%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 71%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 72%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 73%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 74%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 75%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 77%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 78%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 79%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 80%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 81%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 82%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 84%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 85%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 86%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 87%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 89%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 90%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 91%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 96%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Streaming discord_zstd@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip: 100%
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Finished module downloads. [success: 6] [failure: 0]
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Installing updates...
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Installing discord_desktop_core@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_desktop_core-1.zip
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Installing discord_erlpack@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_erlpack-1.zip
+1/23/2026, 7:04:35 PM GMT+2 [Modules] Installing discord_spellcheck@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_spellcheck-1.zip
+1/23/2026, 7:04:36 PM GMT+2 [Modules] Installing discord_utils@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_utils-1.zip
+1/23/2026, 7:04:36 PM GMT+2 [Modules] Installing discord_voice@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_voice-1.zip
+1/23/2026, 7:04:36 PM GMT+2 [Modules] Installing discord_zstd@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_zstd-1.zip
+1/23/2026, 7:04:36 PM GMT+2 [Modules] Finished module installations. [success: 6] [failure: 0]
+1/23/2026, 7:04:36 PM GMT+2 [Modules] Checking for host updates.
+1/23/2026, 7:04:37 PM GMT+2 [Modules] Host is up to date.
+1/23/2026, 7:04:37 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+1/23/2026, 7:04:37 PM GMT+2 [Modules] No module updates available.
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Starting to install discord_krisp...
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Starting to install discord_game_utils...
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 1%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 2%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 3%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 4%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 5%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 6%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 7%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 8%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 9%
+1/23/2026, 7:04:39 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 10%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 11%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 12%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 13%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 14%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 15%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 16%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 17%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 18%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 19%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 20%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 21%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 22%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 23%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 24%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 25%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 26%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 27%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Starting to install discord_rpc...
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 28%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 29%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 30%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 31%
+1/23/2026, 7:04:40 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 32%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 33%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 34%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 35%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 36%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 37%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 38%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 39%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 40%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 41%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 42%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 43%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 44%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 45%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 46%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 47%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 48%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 49%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 50%
+1/23/2026, 7:04:41 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 51%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 52%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 53%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 54%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 55%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 56%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 57%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 58%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 59%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 60%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 61%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 62%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 63%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 64%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 65%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 66%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 67%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 68%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 69%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 70%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 71%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 72%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 73%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 74%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 75%
+1/23/2026, 7:04:42 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 76%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 77%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 78%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 79%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 80%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 81%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 82%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 83%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 84%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 85%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 86%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 87%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 88%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 89%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 90%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 91%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 92%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 93%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 94%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 95%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 96%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 97%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 98%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 99%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_krisp@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip: 100%
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip
+1/23/2026, 7:04:43 PM GMT+2 [Modules] Installing discord_krisp@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_krisp-1.zip
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 1%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 2%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 3%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 4%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 5%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 6%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 7%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 8%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 9%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 10%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 11%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 12%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 13%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 14%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 15%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 16%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 17%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 18%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 19%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 20%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 21%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 22%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 23%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 24%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 25%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 26%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 27%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 28%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 29%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 30%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 31%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 32%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 33%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 34%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 35%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 36%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 37%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 38%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 39%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 40%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 41%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 42%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 43%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 44%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 45%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 46%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Checking for host updates.
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 47%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 48%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 49%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 50%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 51%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 52%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 53%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 54%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 55%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 56%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 57%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 58%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 59%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 60%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 61%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 62%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 63%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 64%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 65%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 66%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 67%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 68%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Finished module installations. [success: 1] [failure: 0]
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 69%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 70%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 71%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 72%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 73%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 75%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 76%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 77%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 78%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 79%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 80%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 81%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 82%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 87%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 89%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 92%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_game_utils@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip: 100%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Installing discord_game_utils@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_game_utils-1.zip
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Host is up to date.
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+1/23/2026, 7:04:44 PM GMT+2 [Modules] No module updates available.
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Finished module installations. [success: 1] [failure: 0]
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 44%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 55%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 64%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 70%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 79%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 85%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 91%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 97%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Streaming discord_rpc@1 to /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip: 100%
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Finished module downloads. [success: 3] [failure: 0]
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Installing discord_rpc@1 from /home/matei/.config/discord/0.0.121/modules/pending/discord_rpc-1.zip
+1/23/2026, 7:04:44 PM GMT+2 [Modules] Finished module installations. [success: 1] [failure: 0]
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Modules initializing
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Distribution: remote
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Host updates: enabled
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Module updates: enabled
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Module install path: /home/matei/.config/discord/0.0.125/modules
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Module installed file path: /home/matei/.config/discord/0.0.125/modules/installed.json
+3/6/2026, 5:26:16 PM GMT+2 [Modules] Module download path: /home/matei/.config/discord/0.0.125/modules/pending
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Bootstrapping...
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Finished module installations. [success: 0] [failure: 6]
+3/6/2026, 5:26:17 PM GMT+2 [Modules] Checking for host updates.
+3/6/2026, 5:26:18 PM GMT+2 [Modules] Host update is available. Manual update required!

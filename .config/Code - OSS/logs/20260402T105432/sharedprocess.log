@@ -1,0 +1,121 @@
+2026-04-02 10:56:05.008 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2026-04-02 10:56:05.736 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"}}
+2026-04-02 10:56:07.665 [info] Extension signature verification result for llvm-vs-code-extensions.vscode-clangd: Success. Executed: true. Duration: 828ms.
+2026-04-02 10:56:07.700 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.4.0-universal: llvm-vs-code-extensions.vscode-clangd
+2026-04-02 10:56:07.705 [info] Renamed to /home/matei/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.4.0-universal
+2026-04-02 10:56:07.715 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:35.813 [info] Getting Manifest... kylinideteam.kylin-cpp-pack
+2026-04-02 10:56:36.847 [info] Installing extension: kylinideteam.kylin-cpp-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"}}
+2026-04-02 10:56:37.172 [info] Getting Manifest... kylinideteam.kylin-clangd
+2026-04-02 10:56:37.402 [info] Getting Manifest... kylinideteam.cppdebug
+2026-04-02 10:56:37.620 [info] Getting Manifest... kylinideteam.kylin-cmake-tools
+2026-04-02 10:56:38.096 [info] Getting Manifest... kylinideteam.cmake-intellisence
+2026-04-02 10:56:38.296 [info] Installing extension: kylinideteam.kylin-clangd {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:56:38.296 [info] Installing extension: kylinideteam.cppdebug {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:56:38.296 [info] Installing extension: kylinideteam.kylin-cmake-tools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:56:38.297 [info] Installing extension: kylinideteam.cmake-intellisence {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:56:41.036 [info] Extension signature verification result for kylinideteam.kylin-cpp-pack: Success. Executed: true. Duration: 1981ms.
+2026-04-02 10:56:41.050 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/kylinideteam.kylin-cpp-pack-0.2.0-universal: kylinideteam.kylin-cpp-pack
+2026-04-02 10:56:41.053 [info] Renamed to /home/matei/.vscode-oss/extensions/kylinideteam.kylin-cpp-pack-0.2.0-universal
+2026-04-02 10:56:41.535 [info] Extension signature verification result for kylinideteam.cmake-intellisence: Success. Executed: true. Duration: 1268ms.
+2026-04-02 10:56:41.566 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/kylinideteam.cmake-intellisence-0.7.1-universal: kylinideteam.cmake-intellisence
+2026-04-02 10:56:41.570 [info] Renamed to /home/matei/.vscode-oss/extensions/kylinideteam.cmake-intellisence-0.7.1-universal
+2026-04-02 10:56:42.012 [info] Extension signature verification result for kylinideteam.kylin-cmake-tools: Success. Executed: true. Duration: 1042ms.
+2026-04-02 10:56:42.228 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/kylinideteam.kylin-cmake-tools-0.2.0-universal: kylinideteam.kylin-cmake-tools
+2026-04-02 10:56:42.239 [info] Renamed to /home/matei/.vscode-oss/extensions/kylinideteam.kylin-cmake-tools-0.2.0-universal
+2026-04-02 10:56:45.125 [info] Extension signature verification result for kylinideteam.kylin-clangd: Success. Executed: true. Duration: 440ms.
+2026-04-02 10:56:45.267 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/kylinideteam.kylin-clangd-0.5.0-linux-x64: kylinideteam.kylin-clangd
+2026-04-02 10:56:45.271 [info] Renamed to /home/matei/.vscode-oss/extensions/kylinideteam.kylin-clangd-0.5.0-linux-x64
+2026-04-02 10:56:45.673 [info] Extension signature verification result for kylinideteam.cppdebug: Success. Executed: true. Duration: 410ms.
+2026-04-02 10:56:46.192 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/kylinideteam.cppdebug-0.2.0-linux-x64: kylinideteam.cppdebug
+2026-04-02 10:56:46.199 [info] Renamed to /home/matei/.vscode-oss/extensions/kylinideteam.cppdebug-0.2.0-linux-x64
+2026-04-02 10:56:46.215 [info] Extension installed successfully: kylinideteam.kylin-cpp-pack vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:46.215 [info] Extension installed successfully: kylinideteam.cmake-intellisence vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:46.215 [info] Extension installed successfully: kylinideteam.kylin-cmake-tools vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:46.215 [info] Extension installed successfully: kylinideteam.kylin-clangd vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:46.215 [info] Extension installed successfully: kylinideteam.cppdebug vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:48.476 [info] Uninstalling extension from the profile: kylinideteam.kylin-cpp-pack@0.2.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:48.477 [info] Uninstalling extension from the profile: kylinideteam.kylin-cmake-tools@0.2.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:48.477 [info] Uninstalling extension from the profile: kylinideteam.kylin-clangd@0.5.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:48.477 [info] Uninstalling extension from the profile: kylinideteam.cppdebug@0.2.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:48.477 [info] Uninstalling extension from the profile: kylinideteam.cmake-intellisence@0.7.1 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:48.487 [info] Extensions is already requested to uninstall kylinideteam.cppdebug
+2026-04-02 10:56:48.488 [info] Extensions is already requested to uninstall kylinideteam.kylin-clangd
+2026-04-02 10:56:48.488 [info] Extensions is already requested to uninstall kylinideteam.kylin-cmake-tools
+2026-04-02 10:56:48.488 [info] Extensions is already requested to uninstall kylinideteam.cmake-intellisence
+2026-04-02 10:56:48.488 [info] Extensions is already requested to uninstall kylinideteam.cmake-intellisence
+2026-04-02 10:56:48.499 [info] Marked extension as removed kylinideteam.kylin-cpp-pack-0.2.0-universal
+2026-04-02 10:56:48.507 [info] Marked extension as removed kylinideteam.kylin-cmake-tools-0.2.0-universal
+2026-04-02 10:56:48.509 [info] Marked extension as removed kylinideteam.kylin-clangd-0.5.0-linux-x64
+2026-04-02 10:56:48.513 [info] Marked extension as removed kylinideteam.cppdebug-0.2.0-linux-x64
+2026-04-02 10:56:48.515 [info] Marked extension as removed kylinideteam.cmake-intellisence-0.7.1-universal
+2026-04-02 10:56:49.008 [info] Successfully uninstalled extension from the profile kylinideteam.kylin-cpp-pack@0.2.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:49.008 [info] Successfully uninstalled extension from the profile kylinideteam.kylin-cmake-tools@0.2.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:49.008 [info] Successfully uninstalled extension from the profile kylinideteam.kylin-clangd@0.5.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:49.008 [info] Successfully uninstalled extension from the profile kylinideteam.cppdebug@0.2.0 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:56:49.009 [info] Successfully uninstalled extension from the profile kylinideteam.cmake-intellisence@0.7.1 vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:13.657 [info] Getting Manifest... franneck94.vscode-c-cpp-dev-extension-pack
+2026-04-02 10:57:13.959 [info] Installing extension: franneck94.vscode-c-cpp-dev-extension-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"}}
+2026-04-02 10:57:14.382 [info] Getting Manifest... twxs.cmake
+2026-04-02 10:57:14.598 [info] Getting Manifest... vadimcn.vscode-lldb
+2026-04-02 10:57:14.813 [info] Getting Manifest... cschlosser.doxdocgen
+2026-04-02 10:57:15.013 [info] Getting Manifest... 13xforever.language-x86-64-assembly
+2026-04-02 10:57:15.310 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2026-04-02 10:57:15.546 [info] Getting Manifest... franneck94.vscode-c-cpp-config
+2026-04-02 10:57:15.762 [info] Getting Manifest... cheshirekow.cmake-format
+2026-04-02 10:57:15.983 [info] Getting Manifest... franneck94.c-cpp-runner
+2026-04-02 10:57:16.533 [info] Getting Manifest... bbenoist.doxygen
+2026-04-02 10:57:16.801 [info] Installing extension: twxs.cmake {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.801 [info] Installing extension: vadimcn.vscode-lldb {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: cschlosser.doxdocgen {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: 13xforever.language-x86-64-assembly {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: jeff-hykin.better-cpp-syntax {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: franneck94.vscode-c-cpp-config {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: cheshirekow.cmake-format {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: franneck94.c-cpp-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:16.802 [info] Installing extension: bbenoist.doxygen {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-02 10:57:18.289 [info] Extension signature verification result for vadimcn.vscode-lldb: Success. Executed: true. Duration: 984ms.
+2026-04-02 10:57:18.302 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/vadimcn.vscode-lldb-1.12.1-universal: vadimcn.vscode-lldb
+2026-04-02 10:57:18.306 [info] Renamed to /home/matei/.vscode-oss/extensions/vadimcn.vscode-lldb-1.12.1-universal
+2026-04-02 10:57:18.324 [info] Extension signature verification result for franneck94.vscode-c-cpp-dev-extension-pack: Success. Executed: true. Duration: 757ms.
+2026-04-02 10:57:18.336 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal: franneck94.vscode-c-cpp-dev-extension-pack
+2026-04-02 10:57:18.338 [info] Renamed to /home/matei/.vscode-oss/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal
+2026-04-02 10:57:18.425 [info] Extension signature verification result for bbenoist.doxygen: Success. Executed: true. Duration: 730ms.
+2026-04-02 10:57:18.435 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/bbenoist.doxygen-1.0.0-universal: bbenoist.doxygen
+2026-04-02 10:57:18.438 [info] Renamed to /home/matei/.vscode-oss/extensions/bbenoist.doxygen-1.0.0-universal
+2026-04-02 10:57:18.492 [info] Extension signature verification result for 13xforever.language-x86-64-assembly: Success. Executed: true. Duration: 796ms.
+2026-04-02 10:57:18.494 [info] Extension signature verification result for franneck94.vscode-c-cpp-config: Success. Executed: true. Duration: 737ms.
+2026-04-02 10:57:18.508 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/13xforever.language-x86-64-assembly-3.1.5-universal: 13xforever.language-x86-64-assembly
+2026-04-02 10:57:18.512 [info] Renamed to /home/matei/.vscode-oss/extensions/13xforever.language-x86-64-assembly-3.1.5-universal
+2026-04-02 10:57:18.527 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/franneck94.vscode-c-cpp-config-6.3.0-universal: franneck94.vscode-c-cpp-config
+2026-04-02 10:57:18.530 [info] Renamed to /home/matei/.vscode-oss/extensions/franneck94.vscode-c-cpp-config-6.3.0-universal
+2026-04-02 10:57:18.625 [info] Extension signature verification result for jeff-hykin.better-cpp-syntax: Success. Executed: true. Duration: 666ms.
+2026-04-02 10:57:18.645 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.27.1-universal: jeff-hykin.better-cpp-syntax
+2026-04-02 10:57:18.648 [info] Renamed to /home/matei/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.27.1-universal
+2026-04-02 10:57:19.076 [info] Extension signature verification result for cheshirekow.cmake-format: Success. Executed: true. Duration: 1033ms.
+2026-04-02 10:57:19.078 [info] Extension signature verification result for franneck94.c-cpp-runner: Success. Executed: true. Duration: 1042ms.
+2026-04-02 10:57:19.095 [info] Extension signature verification result for twxs.cmake: Success. Executed: true. Duration: 626ms.
+2026-04-02 10:57:19.102 [info] Extension signature verification result for cschlosser.doxdocgen: Success. Executed: true. Duration: 775ms.
+2026-04-02 10:57:19.134 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/cheshirekow.cmake-format-0.6.13-universal: cheshirekow.cmake-format
+2026-04-02 10:57:19.140 [info] Renamed to /home/matei/.vscode-oss/extensions/cheshirekow.cmake-format-0.6.13-universal
+2026-04-02 10:57:19.215 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7-universal: franneck94.c-cpp-runner
+2026-04-02 10:57:19.222 [info] Renamed to /home/matei/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7-universal
+2026-04-02 10:57:19.257 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/twxs.cmake-0.0.17-universal: twxs.cmake
+2026-04-02 10:57:19.261 [info] Renamed to /home/matei/.vscode-oss/extensions/twxs.cmake-0.0.17-universal
+2026-04-02 10:57:19.541 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/cschlosser.doxdocgen-1.4.0-universal: cschlosser.doxdocgen
+2026-04-02 10:57:19.560 [info] Renamed to /home/matei/.vscode-oss/extensions/cschlosser.doxdocgen-1.4.0-universal
+2026-04-02 10:57:19.568 [info] Extension installed successfully: vadimcn.vscode-lldb vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: franneck94.vscode-c-cpp-dev-extension-pack vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: bbenoist.doxygen vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: 13xforever.language-x86-64-assembly vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: franneck94.vscode-c-cpp-config vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: jeff-hykin.better-cpp-syntax vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: cheshirekow.cmake-format vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: franneck94.c-cpp-runner vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: twxs.cmake vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:19.569 [info] Extension installed successfully: cschlosser.doxdocgen vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json
+2026-04-02 10:57:25.111 [info] Installing extension: vadimcn.vscode-lldb {"installGivenVersion":true,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"}}
+2026-04-02 10:57:25.143 [info] Deleted existing extension from disk vadimcn.vscode-lldb /home/matei/.vscode-oss/extensions/vadimcn.vscode-lldb-1.12.1-universal
+2026-04-02 10:57:26.270 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/vadimcn.vscode-lldb-1.12.1: vadimcn.vscode-lldb
+2026-04-02 10:57:26.290 [info] Renamed to /home/matei/.vscode-oss/extensions/vadimcn.vscode-lldb-1.12.1
+2026-04-02 10:57:26.299 [info] Extension installed successfully: vadimcn.vscode-lldb vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json

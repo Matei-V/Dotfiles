@@ -1,0 +1,51 @@
+00:00:00.425143 VirtualBox GUI VM Selector Window 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.425145 Log opened 2025-11-27T21:02:21.474836000Z
+00:00:00.425146 Build Type: release
+00:00:00.425150 OS Product: Linux
+00:00:00.425152 OS Release: 6.12.59-1-lts
+00:00:00.425154 OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 24 Nov 2025 10:38:40 +0000
+00:00:00.425193 DMI Product Name: 83JC
+00:00:00.425215 DMI Product Version: LOQ 15ARP9
+00:00:00.425225 Firmware type: UEFI
+00:00:00.425620 Secure Boot: Disabled
+00:00:00.425701 Host RAM: 15673MB (15.3GB) total, 14111MB (13.7GB) available
+00:00:00.425706 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.425707 Process ID: 3912
+00:00:00.425707 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.425748 Qt version: 6.10.0
+00:00:00.427206 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.442074 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.442110 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.652286 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:00:06.902135 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:06.902179 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:00:08.344259 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:00:13.094670 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:13.094721 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:00:13.497167 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:00:18.747823 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:18.747881 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:00:26.204660 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:00:30.964802 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:30.964852 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:11:14.216635 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:11:14.931897 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:11:16.795557 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:11:19.290579 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:11:21.051392 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:11:22.222373 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:11:26.972550 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:11:26.972611 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:14:26.747759 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:14:27.497220 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:14:27.779479 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:14:29.585661 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:14:34.837143 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:14:34.837205 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:16:55.758359 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:16:56.290657 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x43 x 1920x1036
+00:17:01.042041 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:17:01.042102 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:18:47.257475 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1920x1080
+00:18:48.407239 GUI: UICommon: Handling aboutToQuit request..
+00:18:49.447633 GUI: UICommon: aboutToQuit request handled!

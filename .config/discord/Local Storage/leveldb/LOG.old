@@ -1,0 +1,6 @@
+2026/01/23-19:04:29.620 33f18 Reusing MANIFEST /home/matei/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/01/23-19:04:29.624 33f18 Recovering log #8
+2026/01/23-19:04:29.625 33f18 Reusing old log /home/matei/.config/discord/Local Storage/leveldb/000008.log 
+2026/01/23-19:05:29.628 33f19 Level-0 table #12: started
+2026/01/23-19:05:29.649 33f19 Level-0 table #12: 2667811 bytes OK
+2026/01/23-19:05:29.650 33f19 Delete type=0 #8

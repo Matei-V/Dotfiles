@@ -1,0 +1,285 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TeamCode" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires/ftc}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires/ftc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="TeamCode" />
+            <item name="TeamCode" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="TeamCode" />
+              <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="org" />
+                      <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/firstinspires" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="firstinspires" />
+                        <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/firstinspires/ftc" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="ftc" />
+                          <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires/ftc}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/firstinspires/ftc/teamcode" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="teamcode" />
+                            <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="462c0819:PsiDirectoryNode" />
+                            <presentation>
+                              <attributes>
+                                <map>
+                                  <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/firstinspires/ftc/teamcode/readme.md" />
+                                </map>
+                              </attributes>
+                              <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="readme.md" />
+                              <item name="readme.md" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                          </presentation>
+                        </presentation>
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/res" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                    <item name="dir{file:///home/matei/RoboPrototipe/FtcRobotController/TeamCode/src/main/res}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="studio/icons/shell/filetree/manifest-file.svg" iconPlugin="org.jetbrains.android" isLeaf="true" text="AndroidManifest.xml" />
+                    <item name="AndroidManifest.xml" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.gradle" />
+                <item name="build.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
+                <item name="local.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3303095" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32952285" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="6" visible="true" weight="0.3303095" />
+      <unified_weights bottom="0.32952285" left="0.3303095" right="0.3303095" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="938" y="211" key="SettingsEditor" timestamp="1764942238284">
+      <screen x="0" y="43" width="1920" height="1036" />
+    </state>
+    <state x="938" y="211" key="SettingsEditor/0.43.1920.1036@0.43.1920.1036" timestamp="1764942238284" />
+  </component>
+</project>

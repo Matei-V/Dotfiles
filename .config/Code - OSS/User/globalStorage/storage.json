@@ -1,0 +1,85 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b3450a8cba144adde09ea4eb5d5fd0e28ca468a75575ba02c84a8012fb9bdb42",
+    "telemetry.devDeviceId": "99215691-8770-43b6-8145-61d4529b7eae",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/matei/PALab/PATemplate/templatepa"
+            },
+            {
+                "folderUri": "file:///home/matei/PALab/Lab6"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/matei/PALab/PATemplate/templatepa": "__default__profile__",
+            "file:///home/matei/PALab/Lab6": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 187,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/matei/PALab/Lab6",
+            "backupPath": "/home/matei/.config/Code - OSS/Backups/80f8e899bcabbd50908b98b4b32cbcc6",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 187,
+            "workspaces": {
+                "90502a92bb85481028b14db8064bb470": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "cf07837713175739ff67d9574db7aee8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

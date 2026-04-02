@@ -1,0 +1,6 @@
+2026-04-02 11:06:14.076 [info] Getting Manifest... artinmajdi.project-template-manager
+2026-04-02 11:06:14.971 [info] Installing extension: artinmajdi.project-template-manager {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json","path":"/home/matei/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.112.0","date":"2026-03-17T18:09:23Z"}}
+2026-04-02 11:06:17.077 [info] Extension signature verification result for artinmajdi.project-template-manager: Success. Executed: true. Duration: 869ms.
+2026-04-02 11:06:17.144 [info] Extracted extension to file:///home/matei/.vscode-oss/extensions/artinmajdi.project-template-manager-1.8.1-universal: artinmajdi.project-template-manager
+2026-04-02 11:06:17.151 [info] Renamed to /home/matei/.vscode-oss/extensions/artinmajdi.project-template-manager-1.8.1-universal
+2026-04-02 11:06:17.163 [info] Extension installed successfully: artinmajdi.project-template-manager vscode-userdata:/home/matei/.vscode-oss/extensions/extensions.json

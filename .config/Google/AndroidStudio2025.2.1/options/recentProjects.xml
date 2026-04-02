@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RoboPrototipe/FtcRobotController/TeamCode">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TeamCode" opened="true" projectWorkspaceId="36QcM9wzrVg1ebpXv2zImQ508vv">
+              <option name="activationTimestamp" value="1764942243201" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.25557.131.2521.14432022" />
+              <option name="buildTimestamp" value="1763041200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="15" y="58" width="1890" height="1006" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1764942186524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RoboPrototipe/FtcRobotController/TeamCode" />
+  </component>
+</application>

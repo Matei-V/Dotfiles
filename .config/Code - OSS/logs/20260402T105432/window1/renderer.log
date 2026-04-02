@@ -1,0 +1,60 @@
+2026-04-02 10:54:33.757 [info] Started local extension host with pid 3736.
+2026-04-02 10:54:33.805 [info] Started initializing default profile extensions in extensions installation folder. file:///home/matei/.vscode-oss/extensions
+2026-04-02 10:54:33.914 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/matei/.vscode-oss/extensions
+2026-04-02 10:54:36.782 [info] [perf] Render performance baseline is 27ms
+2026-04-02 10:56:46.241 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.switchheadersource` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.install` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.update` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.activate` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.restart` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.shutdown` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy.viewParents` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.242 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy.viewChildren` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy.close` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.memoryUsage` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.memoryUsage.close` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.ast` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.ast.close` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.projectConfig` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.userConfig` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.243 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.inlayHints.toggle` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:46.246 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.path'. This property is already registered.
+2026-04-02 10:56:46.246 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.useScriptAsExecutable'. This property is already registered.
+2026-04-02 10:56:46.246 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.arguments'. This property is already registered.
+2026-04-02 10:56:46.247 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.trace'. This property is already registered.
+2026-04-02 10:56:46.247 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.semanticHighlighting'. This property is already registered.
+2026-04-02 10:56:46.247 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.fallbackFlags'. This property is already registered.
+2026-04-02 10:56:46.247 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.serverCompletionRanking'. This property is already registered.
+2026-04-02 10:56:46.247 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.restartAfterCrash'. This property is already registered.
+2026-04-02 10:56:46.247 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.checkUpdates'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.onConfigChanged'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.onConfigChangedForceEnable'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.detectExtensionConflicts'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.inactiveRegions.useBackgroundHighlight'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.inactiveRegions.opacity'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.enableCodeCompletion'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.enableHover'. This property is already registered.
+2026-04-02 10:56:46.248 [warning] [KylinIdeTeam.kylin-clangd]: Cannot register 'clangd.enable'. This property is already registered.
+2026-04-02 10:56:46.260 [error] [KylinIdeTeam.kylin-clangd]: A view with id `clangd.typeHierarchyView` is already registered.
+2026-04-02 10:56:46.260 [error] [KylinIdeTeam.kylin-clangd]: A view with id `clangd.memoryUsage` is already registered.
+2026-04-02 10:56:46.260 [error] [KylinIdeTeam.kylin-clangd]: A view with id `clangd.ast` is already registered.
+2026-04-02 10:56:49.037 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.switchheadersource` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.037 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.install` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.038 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.update` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.038 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.activate` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.038 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.restart` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.038 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.shutdown` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.038 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.039 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy.viewParents` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.039 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy.viewChildren` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.039 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.typeHierarchy.close` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.039 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.memoryUsage` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.039 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.memoryUsage.close` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.040 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.ast` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.040 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.ast.close` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.040 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.projectConfig` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.040 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.userConfig` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:56:49.040 [info] [llvm-vs-code-extensions.vscode-clangd]: Command `clangd.inlayHints.toggle` already registered by Kylin Clangd (KylinIdeTeam.kylin-clangd)
+2026-04-02 10:58:45.475 [info] Started local extension host with pid 8478.
+2026-04-02 10:58:48.262 [info] [perf] Render performance baseline is 17ms

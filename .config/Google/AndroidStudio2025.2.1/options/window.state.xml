@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="955" y="325" />
+  </component>
+  <component name="WindowManager">
+    <frame x="15" y="58" width="1890" height="1006" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1218" y="317" width="424" height="458" key="FileChooserDialogImpl" timestamp="1764942182564">
+      <screen x="0" y="43" width="1920" height="1036" />
+    </state>
+    <state x="1218" y="317" width="424" height="458" key="FileChooserDialogImpl/0.43.1920.1036" timestamp="1764942182564" />
+    <state x="955" y="325" key="WELCOME_SCREEN" timestamp="1764942091723">
+      <screen x="0" y="43" width="1920" height="1036" />
+    </state>
+    <state x="955" y="325" key="WELCOME_SCREEN/0.43.1920.1036" timestamp="1764942091723" />
+  </component>
+</application>

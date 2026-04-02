@@ -1,0 +1,9 @@
+3/6/2026, 5:26:17 PM GMT+2 0: 
+
+----------------------------------------------
+3/6/2026, 5:26:17 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.125"}, modulepath: /home/matei/.config/discord/0.0.125/modules
+3/6/2026, 5:26:17 PM GMT+2 2: ✅ webContents.created web1 ""
+3/6/2026, 5:26:17 PM GMT+2 3: ✅ window.created win1 "discord"
+3/6/2026, 5:26:17 PM GMT+2 4: ✅ webContents.did-finish-load web1
+3/6/2026, 5:26:19 PM GMT+2 5: window.close win1
+3/6/2026, 5:26:19 PM GMT+2 6: webContents.destroyed web1

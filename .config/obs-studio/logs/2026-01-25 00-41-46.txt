@@ -1,0 +1,163 @@
+00:41:46.193: Crash or unclean shutdown detected
+00:41:47.625: [Safe Mode] Normal launch selected, loading third-party plugins is enabled
+00:41:47.626: Platform: Wayland
+00:41:47.626: CPU Name: AMD Ryzen 7 7435HS
+00:41:47.626: CPU Speed: 400.000MHz
+00:41:47.628: Physical Cores: 8, Logical Cores: 16
+00:41:47.628: Physical Memory: 15673MB Total, 311MB Free
+00:41:47.628: Kernel Version: Linux 6.12.66-1-lts
+00:41:47.629: Distribution: "Arch Linux" Unknown
+00:41:47.629: Desktop Environment: Hyprland
+00:41:47.629: Session Type: wayland
+00:41:47.634: Current Date/Time: 2026-01-25, 12:41:47 AM
+00:41:47.634: Browser Hardware Acceleration: true
+00:41:47.634: Qt Version: 6.10.1 (runtime), 6.10.1 (compiled)
+00:41:47.634: Portable mode: false
+00:41:47.662: OBS 32.0.4 (linux)
+00:41:47.662: ---------------------------------
+00:41:47.663: ---------------------------------
+00:41:47.663: audio settings reset:
+00:41:47.663: 	samples per sec: 48000
+00:41:47.663: 	speakers:        2
+00:41:47.663: 	max buffering:   960 milliseconds
+00:41:47.663: 	buffering type:  dynamically increasing
+00:41:47.665: ---------------------------------
+00:41:47.665: Initializing OpenGL...
+00:41:47.665: Using EGL/Wayland
+00:41:47.813: Initialized EGL 1.5
+00:41:47.894: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+00:41:47.894: OpenGL loaded successfully, version 3.3.0 NVIDIA 590.48.01, shading language 3.30 NVIDIA via Cg compiler
+00:41:47.935: ---------------------------------
+00:41:47.935: video settings reset:
+00:41:47.935: 	base resolution:   1920x1080
+00:41:47.935: 	output resolution: 1920x1080
+00:41:47.935: 	downscale filter:  Bicubic
+00:41:47.935: 	fps:               60/1
+00:41:47.935: 	format:            NV12
+00:41:47.935: 	YUV mode:          Rec. 709/Partial
+00:41:47.935: NV12 texture support enabled
+00:41:47.935: P010 texture support not available
+00:41:47.935: Audio monitoring device:
+00:41:47.935: 	name: Default
+00:41:47.935: 	id: default
+00:41:47.979: ---------------------------------
+00:41:47.980: Failed to load 'en-US' text for module: 'decklink-captions.so'
+00:41:47.982: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+00:41:47.984: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:41:47.984: Failed to initialize module 'decklink.so'
+00:41:48.168: [pipewire] Available capture sources:
+00:41:48.168: [pipewire]     - Monitor source
+00:41:48.168: [pipewire]     - Window source
+00:41:48.183: v4l2loopback not installed, virtual camera not registered
+00:41:48.244: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+00:41:48.245: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+00:41:48.245: FFmpeg VAAPI H264 encoding not supported
+00:41:48.245: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+00:41:48.245: FFmpeg VAAPI AV1 encoding not supported
+00:41:48.245: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+00:41:48.245: FFmpeg VAAPI HEVC encoding not supported
+00:41:49.653: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.10, AV1 supported: true
+00:41:49.687: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+00:41:49.687: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.1
+00:41:49.687: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+00:41:49.691: [obs-websocket] [obs_module_load] Module loaded.
+00:41:49.698: ---------------------------------
+00:41:49.698:   Loaded Modules:
+00:41:49.698:     text-freetype2.so
+00:41:49.698:     rtmp-services.so
+00:41:49.698:     obs-x264.so
+00:41:49.698:     obs-websocket.so
+00:41:49.698:     obs-webrtc.so
+00:41:49.698:     obs-vst.so
+00:41:49.698:     obs-transitions.so
+00:41:49.698:     obs-qsv11.so
+00:41:49.698:     obs-outputs.so
+00:41:49.698:     obs-nvenc.so
+00:41:49.698:     obs-libfdk.so
+00:41:49.698:     obs-filters.so
+00:41:49.698:     obs-ffmpeg.so
+00:41:49.698:     linux-v4l2.so
+00:41:49.698:     linux-pulseaudio.so
+00:41:49.698:     linux-pipewire.so
+00:41:49.698:     linux-jack.so
+00:41:49.698:     linux-capture.so
+00:41:49.698:     linux-alsa.so
+00:41:49.698:     image-source.so
+00:41:49.698:     frontend-tools.so
+00:41:49.698:     decklink-output-ui.so
+00:41:49.698:     decklink-captions.so
+00:41:49.698: ---------------------------------
+00:41:49.698: ---------------------------------
+00:41:49.698: Available Encoders:
+00:41:49.698:   Video Encoders:
+00:41:49.698: 	- ffmpeg_svt_av1 (SVT-AV1)
+00:41:49.698: 	- ffmpeg_aom_av1 (AOM AV1)
+00:41:49.698: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+00:41:49.698: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+00:41:49.698: 	- obs_nvenc_av1_tex (NVIDIA NVENC AV1)
+00:41:49.698: 	- obs_x264 (x264)
+00:41:49.698:   Audio Encoders:
+00:41:49.698: 	- ffmpeg_aac (FFmpeg AAC)
+00:41:49.698: 	- ffmpeg_opus (FFmpeg Opus)
+00:41:49.698: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+00:41:49.698: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+00:41:49.698: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+00:41:49.698: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+00:41:49.698: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+00:41:49.698: 	- libfdk_aac (libfdk AAC)
+00:41:49.698: ==== Startup complete ===============================================
+00:41:49.735: All scene data cleared
+00:41:49.735: ------------------------------------------------
+00:41:49.741: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+00:41:49.741: Deduplication logic is being applied to all monitored sources.
+00:41:49.741: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+00:41:49.741: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+00:41:49.742: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+00:41:49.742: [Loaded global audio device]: 'Desktop Audio'
+00:41:49.743: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+00:41:49.743: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+00:41:49.743: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo' (default)
+00:41:49.743: [Loaded global audio device]: 'Mic/Aux'
+00:41:49.743: PipeWire initialized
+00:41:49.744: Switched to scene 'Scene'
+00:41:49.744: ------------------------------------------------
+00:41:49.744: Loaded scenes:
+00:41:49.744: - scene 'Scene':
+00:41:49.744:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+00:41:49.744: ------------------------------------------------
+00:41:49.760: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+00:41:49.760: Deduplication logic is being applied to all monitored sources.
+00:41:49.800: [pipewire] Screencast session created
+00:41:50.309: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+00:41:50.309: 
+00:41:50.352: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+00:41:50.352: 
+00:41:52.314: [pipewire] Asking for monitor and window
+00:41:52.321: [pipewire] source selected, setting up screencast
+00:41:52.330: [pipewire] Server version: 1.4.10
+00:41:52.330: [pipewire] Library version: 1.4.10
+00:41:52.330: [pipewire] Header version: 1.4.9
+00:41:52.331: [pipewire] Created stream 0x5d0afbe11030
+00:41:52.331: [pipewire] Stream 0x5d0afbe11030 state: "connecting" (error: none)
+00:41:52.331: [pipewire] Playing stream 0x5d0afbe11030
+00:41:52.331: [pipewire] Stream 0x5d0afbe11030 state: "paused" (error: none)
+00:41:52.375: [pipewire] Negotiated format:
+00:41:52.375: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+00:41:52.375: [pipewire]     Modifier: 0x0
+00:41:52.375: [pipewire]     Size: 1920x1080
+00:41:52.375: [pipewire]     Framerate: 0/1
+00:41:52.376: [pipewire] Negotiated format:
+00:41:52.376: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+00:41:52.376: [pipewire]     Modifier: 0x300000000e08014
+00:41:52.376: [pipewire]     Size: 1920x1080
+00:41:52.376: [pipewire]     Framerate: 0/1
+00:41:52.378: [pipewire] Stream 0x5d0afbe11030 state: "streaming" (error: none)
+01:05:56.848: ==== Shutting down ==================================================
+01:05:56.927: [pipewire] Stream 0x5d0afbe11030 state: "paused" (error: none)
+01:05:56.952: pulse-input: Stopped recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+01:05:56.953: pulse-input: Got 57886 packets with 69463200 frames
+01:05:56.953: Deduplication logic stopped.
+01:05:56.954: pulse-input: Stopped recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+01:05:56.954: pulse-input: Got 57886 packets with 69463200 frames
+01:05:56.955: [pipewire] Stream 0x5d0afbe11030 state: "unconnected" (error: none)
+01:05:56.990: The Wayland connection broke. Did the Wayland compositor die?

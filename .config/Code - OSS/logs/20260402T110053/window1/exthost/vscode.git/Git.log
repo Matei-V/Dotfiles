@@ -1,0 +1,29 @@
+2026-04-02 11:00:54.932 [info] [main] Log level: Info
+2026-04-02 11:00:54.932 [info] [main] Validating found git in: "git"
+2026-04-02 11:00:54.932 [info] [main] Using git "2.53.0" from "git"
+2026-04-02 11:00:54.932 [info] [Model][doInitialScan] Initial repository scan started
+2026-04-02 11:00:54.932 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-02 11:00:54.932 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [9ms]
+2026-04-02 11:00:54.964 [info] [Model][openRepository] Opened repository (path): /home/matei/PALab/PATemplate/templatepa
+2026-04-02 11:00:54.964 [info] [Model][openRepository] Opened repository (real path): /home/matei/PALab/PATemplate/templatepa
+2026-04-02 11:00:54.964 [info] [Model][openRepository] Opened repository (kind): repository
+2026-04-02 11:00:54.981 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-02 11:00:54.981 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-04-02 11:00:54.982 [info] > git config --get commit.template [12ms]
+2026-04-02 11:00:55.031 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2026-04-02 11:00:55.035 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/matei/PALab/PATemplate/templatepa/.git/refs/remotes/origin/main'
+2026-04-02 11:00:55.036 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2026-04-02 11:00:55.043 [info] > git status -z -uall [4ms]
+2026-04-02 11:00:55.044 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-04-02 11:00:55.067 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-04-02 11:00:55.073 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2026-04-02 11:00:55.077 [info] > git config --get commit.template [10ms]
+2026-04-02 11:00:55.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2026-04-02 11:00:55.090 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2026-04-02 11:00:55.094 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2026-04-02 11:00:55.097 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/matei/PALab/PATemplate/templatepa/.git/refs/remotes/origin/main'
+2026-04-02 11:00:55.097 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 46886ab40bb25d6f4473804753e41032b82c0360...refs/remotes/origin/main -- [4ms]
+2026-04-02 11:00:55.098 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2026-04-02 11:00:55.106 [info] > git status -z -uall [5ms]
+2026-04-02 11:00:55.106 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-04-02 11:00:55.489 [info] > git check-ignore -v -z --stdin [1ms]

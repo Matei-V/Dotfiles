@@ -1,0 +1,28 @@
+2026-04-02 10:54:34.219 [info] Extension host with pid 3736 started
+2026-04-02 10:54:34.255 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-02 10:54:34.275 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-02 10:54:34.307 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-02 10:54:34.317 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-02 10:54:34.349 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-02 10:54:34.435 [info] Eager extensions activated
+2026-04-02 10:54:34.460 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:54:34.461 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:57:19.643 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:57:19.677 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:58:44.710 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-02 10:58:44.718 [info] Extension host with pid 3736 exiting with code 0
+2026-04-02 10:58:45.866 [info] Extension host with pid 8478 started
+2026-04-02 10:58:45.866 [info] Skipping acquiring lock for /home/matei/.config/Code - OSS/User/workspaceStorage/90502a92bb85481028b14db8064bb470.
+2026-04-02 10:58:45.894 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-02 10:58:45.914 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-02 10:58:45.945 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-04-02 10:58:45.951 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-02 10:58:46.001 [info] Eager extensions activated
+2026-04-02 10:58:46.012 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:58:46.013 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:58:47.869 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-04-02 10:58:47.948 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished', root cause: franneck94.vscode-c-cpp-config
+2026-04-02 10:58:48.032 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2026-04-02 10:58:48.059 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp,*.cu'
+2026-04-02 11:00:48.733 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-02 11:00:48.741 [info] Extension host with pid 8478 exiting with code 0
